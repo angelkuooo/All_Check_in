@@ -1,0 +1,2 @@
+random_data 
+3*10
