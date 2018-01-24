@@ -1,0 +1,5 @@
+由上一步驟產生的檔案作為讀檔資料
+執行方法: python final.py outcheck.txt NYXXXXX.txt
+產生: out(XXXX).txt 檔
+備註: 63 行須進行適當更改
+         final.py 有import processfunction.py 檔

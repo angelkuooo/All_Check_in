@@ -1,0 +1,5 @@
+利用test_POI 產生由方法一紐約8種型態POI 的資料
+資料型態:(地點ID	緯度	經度	型態類型)
+執行方法: python test_POI.py NYPOI.txt
+產生: NY(Office).txt 檔
+備註: 32 & 36 行須進行適當更改
